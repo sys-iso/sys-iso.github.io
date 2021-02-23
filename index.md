@@ -13,10 +13,12 @@ Ubuntu | 20.04.1 | All | Amd64
 Windows7 | Professional/SP1 | zh-cn | x64
 Windows10 | 20H2_v2 | English | x64
 Windows10 | 20H2-Editions | zh-cn/Chinese(Simplified) | x64/x86
+Windows10 | 2004-PRO | zh-cn | x64
+Windows10 | 2019-LTSC | zh-cn | <a href="https://pan.xunlei.com/s/VMUCX4_UmlqtwIG8CrKPyHAMA1?pass_code=x5xk">x64</a>/<a href="https://pan.xunlei.com/s/VMUCXJQ24LL2ZRJb3ZgiQd5EA1?pass_code=k3z7">x86</a>
 Windows10 | InsiderPreview | zh-cn | x64
 Window8 | . | zh-cn | x64
 Window8.1 | Professional | Chinese(Simplified) | x64
-WindowServer | . | zh-cn | x64
+WindowServer | <a href="https://pan.xunlei.com/s/VMUCVoqg6ClxJ9WxJ3gvWnGrA1?pass_code=zhzk">2016</a>/<a href="https://pan.xunlei.com/s/VMUCWII2rG7-iuBTms35rBP5A1?pass_code=8e72">2019</a> | zh-cn | x64
 WindowsVista | Enterprise/SP2 | zh-cn | x64
 WindowsXP | PRO-img | zh-cn | x64
 SQLServer | 2019-Developer | zh-cn | x64
